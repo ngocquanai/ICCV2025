@@ -1,0 +1,17 @@
+ImageClassification/ViT-B_16.npz
+ImageClassification/old_output/
+ImageClassification/output/
+ImageClassification/output_LS_CE/
+ImageClassification/output_debug/
+ImageClassification/output_ce/
+ImageClassification/output_ls/
+ImageClassification/output_hice/
+FullSupervised/CIFAR100/data/
+FullSupervised/CIFAR100/checkpoint/
+FullSupervised/CIFAR100/runs/
+FewShot/FGFS.tar.gz
+FewShot/FGFS/
+FewShot/ViT-B_16.npz
+FewShot/checkpoint/
+FullSupervised/TinyImageNet/data/
+FullSupervised/TinyImageNet/save/
